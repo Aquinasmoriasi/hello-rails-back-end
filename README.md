@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 Hello rails back end <a name="about-project"></a>
 
 > This is a simple API app that serves random greetings using rails backend. The app is set alongside a separate React based front end aplication whose link is provided below
 
